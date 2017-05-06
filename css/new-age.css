@@ -219,13 +219,13 @@ header .device-container .screen img {
   }
 }
 section {
-  padding: 100px 0;
+  padding: 40px 0;
 }
 section h2 {
   font-size: 50px;
 }
 section.download {
-  padding: 150px 0;
+  padding: 40px 0;
   position: relative;
 }
 section.download h2 {
@@ -252,9 +252,6 @@ section.download .badges .badge-link img {
   section.download h2 {
     font-size: 70px;
   }
-}
-section.features .section-heading {
-  margin-bottom: 100px;
 }
 section.features .section-heading h2 {
   margin-top: 0;
